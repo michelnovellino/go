@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-//formas de ejecutar un ciclo for
+//for
 func main() {
 
 	var i int
